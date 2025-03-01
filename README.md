@@ -7,15 +7,15 @@
 [**Contact Mail** : **niteshcse3333@gmail.com** ](https://www.github.com/octokatherine)
 
 ## 🚀 Tech Stacks
-| **Fronted Technology** |**Backend Technology**|
+| **Fronted Technology** |**Backend Technology** |
 |:-------           | :----------------- |
-|**Vite@React**       | **MongoDB** |  
-|**Redux/Redux-Toolkit**              | **Node js** |
-|**Tailwind CSS**       | **Express js** |   
-|**Bootstrap**         |                |
-|**HTML,CSS,JavaScript**           |              |
+|Vite@React**     | MongoDB |  
+|Redux/Redux-Toolkit**| Node js |
+|Tailwind CSS**    | Express js |   
+|Bootstrap**       |                |
+|HTML,CSS,JavaScript |              |
 
-### Content Management System
+## Content Management System
 - ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 ## OS
