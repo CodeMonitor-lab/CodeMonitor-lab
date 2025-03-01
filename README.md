@@ -9,10 +9,10 @@
 ## 🚀 Tech Stacks
 | **Fronted Technology** |**Backend Technology** |
 |:-------           | :----------------- |
-|Vite@React**     | MongoDB |  
-|Redux/Redux-Toolkit**| Node js |
-|Tailwind CSS**    | Express js |   
-|Bootstrap**       |                |
+|Vite@React     | MongoDB |  
+|Redux/Redux-Toolkit| Node js |
+|Tailwind CSS   | Express js |   
+|Bootstrap      |                |
 |HTML,CSS,JavaScript |              |
 
 ## Content Management System
