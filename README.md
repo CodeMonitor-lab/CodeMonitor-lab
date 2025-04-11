@@ -11,15 +11,6 @@
 - **Email:** niteshcse3333@gmail.com  
 - **Portfolio:** [MyProfile.com](#)
 ---
-
-### 💬 Ask me about:
-- React
-- Express.js
-- Frontend Styling
-- DevOps
-
----
-
 ### ⚙️ Languages and Tools:
 
 <p align="center">
