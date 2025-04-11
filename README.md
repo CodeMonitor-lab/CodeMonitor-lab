@@ -5,6 +5,14 @@
   I specialize in building dynamic and responsive web applications using the MERN stack (MongoDB, Express.js, React, Node.js) to deliver seamless user experiences and scalable solutions.
 </p>
 
+---
+
+### 📫 Contact Me:
+- **Email:** niteshcse3333@gmail.com  
+- **Portfolio:** [MyProfile.com](#)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codemonitor-lab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -22,25 +30,6 @@
 - Express.js
 - Frontend Styling
 - DevOps
-
----
-
-### 📫 Contact Me:
-- **Email:** niteshcse3333@gmail.com  
-- **Portfolio:** [MyProfile.com](#)
-
----
-
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/linkdin" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dev_nitsh" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
@@ -78,4 +67,16 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/linkdin" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/dev_nitsh" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
