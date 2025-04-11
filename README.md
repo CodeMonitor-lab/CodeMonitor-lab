@@ -52,15 +52,15 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="700" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en" alt="GitHub Stats" width="700" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en" alt="GitHub Stats" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab" alt="GitHub Streak" width="700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab" alt="GitHub Streak" width="500" />
 </p>
 
 
