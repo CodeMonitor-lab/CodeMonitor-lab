@@ -27,9 +27,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="400" height="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="400" height="50" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="400" height="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" /></td>
   </tr>
 </table>
 
@@ -51,15 +51,15 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en" alt="GitHub Stats width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab" alt="GitHub Streak" width="400" />
 </p>
 
 ---
