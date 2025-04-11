@@ -14,13 +14,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=codemonitor-lab" alt="Trophies" />
   </a>
 </p>
-
 ---
-
-### 🌱 I’m currently learning:
-- Full Stack Web Development  
-- Concepts of Development Operations (DevOps)
-
 ### 💬 Ask me about:
 - React
 - Express.js
@@ -29,7 +23,7 @@
 
 ### 📫 Contact Me:
 - **Email:** niteshcse3333@gmail.com  
-- **Portfolio:** [Coming Soon](#)
+- **Portfolio:** [MyProfile.com](#)
 
 ---
 
