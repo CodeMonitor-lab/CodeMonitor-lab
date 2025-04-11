@@ -42,13 +42,10 @@
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Postman_logo_2017.svg" alt="Postman" width="50" height="50" />
-/td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Postman_logo_2017.svg" alt="Postman" width="50" height="50" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" /></td>
   </tr>
 </table>
-
-
 
 ---
 
