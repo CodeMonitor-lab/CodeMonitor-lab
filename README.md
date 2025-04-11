@@ -1,12 +1,7 @@
 <h2 align="center">Hi 👋, I'm RAM</h2>
 <h4 align="center">A passionate frontend devel"A passionate Full Stack Web Developer with building dynamic web applications. I specialize in leveraging MongoDB, Express, React, and Node.js to create seamless user experiences and scalable solutions."oper from India</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemonitor-lab&label=Profile%20views&color=0e75b6&style=flat" alt="codemonitor-lab" /> </p>
-
-- 🌱 I’m currently learning **Full Stack Web Development and Concepts of Devlopement Operations**
-
-- 👨‍💻 All of my projects are available at [Comming Soon](Comming Soon)
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemonitor-lab&label=Profile%20views&color=0e75b6&style=flat" alt="codemonitor-lab" /> </p>
 - Contact us **niteshcse3333@gmail.com**
 - Portfolio [portfolio comming soon](portfolio comming soon)
 
@@ -18,10 +13,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en" alt="codemonitor-lab" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab&" alt="codemonitor-lab" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab&" alt="codemonitor-lab" /></p>
 
