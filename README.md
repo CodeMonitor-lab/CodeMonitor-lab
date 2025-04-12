@@ -9,7 +9,6 @@
 ---
 - **Email:** niteshcse3333@gmail.com  
 - **Portfolio:** [MyProfile.com](#)
-
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
@@ -28,7 +27,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
 </p>
----
+
 <table align="center">
   <tr>
     <td>
@@ -42,7 +41,7 @@
     </td>
   </tr>
 </table>
----
+
 <p align="center">
   <a href="https://linkedin.com/in/linkdin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
