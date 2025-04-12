@@ -9,7 +9,6 @@
 - **Portfolio:** [MyProfile.com](#)
 
 ---
-
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
@@ -30,8 +29,6 @@
 
 
 ---
-
-### 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="250" height="150" />
   
@@ -42,8 +39,6 @@
 
 
 ---
-
-### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/linkdin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
