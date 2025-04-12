@@ -39,14 +39,7 @@
 
 
 ---
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://linkedin.com/in/linkdin" target="_blank" style="display: inline-block; width: 30px; height: 30px; border: 2px solid #ccc; border-radius: 6px; padding: 3px; box-sizing: border-box;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="100%" height="100%" />
-  </a>
-  <a href="https://instagram.com/dev_nitsh" target="_blank" style="display: inline-block; width: 30px; height: 30px; border: 2px solid #ccc; border-radius: 6px; padding: 3px; box-sizing: border-box;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="100%" height="100%" />
-  </a>
-</p>
+
 
 
 
