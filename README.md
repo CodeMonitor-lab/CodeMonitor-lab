@@ -6,11 +6,10 @@
   <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js) to deliver seamless user experiences and scalable solutions.
 </p>
 
----
+---  
 
-### 📫 **Contact Me**  
-- ✉️ **Email:** [niteshcse3333@gmail.com](mailto:niteshcse3333@gmail.com)  
-- 🌐 **Portfolio:** [MyProfile.com](#)
+ ✉️ **Email:** [niteshcse3333@gmail.com](mailto:niteshcse3333@gmail.com)  
+ 🌐 **My Web Portfolio:** [MyProfile.com](#)
 
 ---
 
