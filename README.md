@@ -31,16 +31,17 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en" alt="GitHub Stats" width="300" />
+      <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="300" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab" alt="GitHub Streak" width="300" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab&theme=radical" alt="GitHub Streak" width="300" />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/linkdin" target="_blank">
