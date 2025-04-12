@@ -7,9 +7,13 @@
 </p>
 
 ---
-- **Email:** niteshcse3333@gmail.com  
-- **Portfolio:** [MyProfile.com](#)
+
+### 📫 **Contact Me**  
+- ✉️ **Email:** [niteshcse3333@gmail.com](mailto:niteshcse3333@gmail.com)  
+- 🌐 **Portfolio:** [MyProfile.com](#)
+
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
