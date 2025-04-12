@@ -31,16 +31,17 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact&theme=radical&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="Top Languages" width="300" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonitor-lab&show_icons=true&locale=en&layout=compact&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="Top Languages" width="300" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en&theme=radical&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats" width="300" />
+      <img src="https://github-readme-stats.vercel.app/api?username=codemonitor-lab&show_icons=true&locale=en&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats" width="300" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab&theme=radical&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Streak" width="300" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemonitor-lab&theme=dark&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Streak" width="300" />
     </td>
   </tr>
 </table>
+
 
 
 
