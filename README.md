@@ -44,7 +44,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=C';" />
 </p>
 
-
 <table align="center">
   <tr>
     <td>
@@ -58,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/linkdin" target="_blank">
