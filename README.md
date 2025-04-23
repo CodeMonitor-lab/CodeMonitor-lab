@@ -5,6 +5,12 @@
   I specialize in building dynamic and responsive web applications using the
   <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js) to deliver seamless user experiences and scalable solutions.
 </p>
+---
+<p align='center' >
+  My GitHub showcases a range of projects that reflect a strong focus on full-stack web development, emphasizing clean architecture, performance optimization, and modern UI/UX principles. From interactive front-end interfaces to robust back-end APIs, each project is designed with scalability, maintainability, and real-world application in mind. Leveraging technologies like JavaScript, React, Node.js, Express, and MongoDB, I consistently aim to build solutions that are not only functional but also intuitive.
+
+I specialize in building dynamic and responsive web applications to deliver seamless user experiences and scalable solutions.
+</p>
 
 ---  
 
