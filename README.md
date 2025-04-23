@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm RAM</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<p align="center">
-  I specialize in building dynamic and responsive web applications using the
-  <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js) to deliver seamless user experiences and scalable solutions.
-</p>
----
 <p align='center' >
-  My GitHub showcases a range of projects that reflect a strong focus on full-stack web development, emphasizing clean architecture, performance optimization, and modern UI/UX principles. From interactive front-end interfaces to robust back-end APIs, each project is designed with scalability, maintainability, and real-world application in mind. Leveraging technologies like JavaScript, React, Node.js, Express, and MongoDB, I consistently aim to build solutions that are not only functional but also intuitive.
+I'm a Web Developer who specializes in building dynamic and responsive web applications that deliver seamless user experiences and scalable solutions. I'm passionate about creating user-focused digital products with clean architecture, performance optimization, and modern UI/UX design.
 
-I specialize in building dynamic and responsive web applications to deliver seamless user experiences and scalable solutions.
+I work primarily with JavaScript, React, Node.js, Express, and MongoDB, building everything from intuitive front-end interfaces to robust back-end systems.
 </p>
 
 ---  
