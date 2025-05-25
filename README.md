@@ -3,7 +3,7 @@
 
 <p align='center' >
 I'm a Developer who specializes in building dynamic and responsive web applications that deliver seamless user experiences and scalable solutions. I'm passionate about creating user-focused digital products with clean architecture, performance optimization, and modern UI/UX design.
-I work primarily with <strong> JavaScript, React,Next-js, Node.js, Express,MongoDB and TailwindCSS/Shadcn </strong> , building everything from intuitive front-end interfaces to robust back-end systems.
+I work primarily with <strong> JavaScript, MERN Stack,NextJs and TailwindCSS/Shadcn </strong> , building everything from intuitive front-end interfaces to robust back-end systems.
 </p>
 
 ---  
