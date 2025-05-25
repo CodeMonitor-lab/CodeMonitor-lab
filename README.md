@@ -4,11 +4,13 @@
 I'm a Developer who specializes in building dynamic and responsive web applications that deliver seamless user experiences and scalable solutions. I'm passionate about creating user-focused digital products with clean architecture, performance optimization, and modern UI/UX design.
 I work primarily with <strong> JavaScript, MERN Stack,NextJs and TailwindCSS/Shadcn </strong> building everything from intuitive front-end interfaces to robust back-end systems.
 </p>
+
 ---  
  ✉️ **Email:** [niteshcse3333@gmail.com](mailto:niteshcse3333@gmail.com)  
  🌐 **My Web Portfolio:** [MyProfile.com](#)
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" style="border: 2px solid #fff; border-radius: 10px; margin: 5px;" onerror="this.src='https://via.placeholder.com/40/FFFFFF/000000?text=HTML5';" />
   
