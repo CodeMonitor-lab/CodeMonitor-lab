@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm RAM</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
 <p align='center' >
 I'm a Developer who specializes in building dynamic and responsive web applications that deliver seamless user experiences and scalable solutions. I'm passionate about creating user-focused digital products with clean architecture, performance optimization, and modern UI/UX design.
-I work primarily with <strong> JavaScript, MERN Stack,NextJs and TailwindCSS/Shadcn </strong> , building everything from intuitive front-end interfaces to robust back-end systems.
+I work primarily with <strong> JavaScript, MERN Stack,NextJs and TailwindCSS/Shadcn </strong> building everything from intuitive front-end interfaces to robust back-end systems.
 </p>
-
 ---  
-
  ✉️ **Email:** [niteshcse3333@gmail.com](mailto:niteshcse3333@gmail.com)  
  🌐 **My Web Portfolio:** [MyProfile.com](#)
 
