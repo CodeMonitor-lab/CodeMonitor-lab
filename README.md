@@ -7,7 +7,7 @@ I work primarily with <strong> JavaScript, MERN Stack,NextJs and TailwindCSS/Sha
 
 ---  
  ✉️ **Email:** [niteshcse3333@gmail.com](mailto:niteshcse3333@gmail.com)  
- 🌐 **Web Portfolio:** [https://myportfolio-nine-vert.vercel.app](https://www.codemonitor.online/)
+ 🌐 **Web Portfolio:** [https://www.codemonitor.online/](https://www.codemonitor.online/)
 
 ---
 
